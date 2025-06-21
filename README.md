@@ -17,7 +17,7 @@
   - **APIs**: REST, GraphQL, gRPC, and real-time sync
 - 🌱 Always exploring new tools and technologies in the **JavaScript/TypeScript and Python ecosystems**
 - 🚀 I love turning ideas into **production-ready apps** with clean code and intuitive user experiences
-- 🎓 Also a final-year Engineering student @ Covenant University, focused on **AGI Systems and Computer Vision Applications**
+- 🎓 Also a final-year Computer Engineering student @ Covenant University, focused on **AGI Systems and Computer Vision Applications**
 
 ---
 
