@@ -77,8 +77,8 @@
 
 ### 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-Prince%20Usih-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elijah-usih-396b4b257/)  
-[![Email](https://img.shields.io/badge/-prince@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elijah.usih@stu.cu.edu.ng)
+[![LinkedIn](https://img.shields.io/badge/-Elijah-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elijah-usih-396b4b257/)  
+[![Email](https://img.shields.io/badge/-elijah.usih@stu.cu.edu.ng-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elijah.usih@stu.cu.edu.ng)
 
 ---
 
