@@ -6,17 +6,17 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 💻 I’m a **professional software developer** with **3+ years of hands-on experience**
-- 🛠️ Currently building a **Gas Station Management App** with **QR code payments**, real-time dashboards, and customer analytics
-- 🔭 Passionate about **building performant and scalable systems** using modern JavaScript frameworks and backend tools
-- ⚡ Strong expertise in:
+- I’m a **professional software developer** with **3+ years of hands-on experience**
+- Currently building a **Gas Station Management App** with **QR code payments**, real-time dashboards, and customer analytics
+- Passionate about **building performant and scalable systems** using modern JavaScript frameworks and backend tools
+- Strong expertise in:
   - **Frontend**: React, Expo (React Native), TailwindCSS, NextJS
   - **Backend**: Supabase, PostgreSQL, Go (Golang), FastAPI, NodeJS
   - **APIs**: REST, GraphQL, gRPC, and real-time sync
-- 🌱 Always exploring new tools and technologies in the **JavaScript/TypeScript and Python ecosystems**
-- 🚀 I love turning ideas into **production-ready apps** with clean code and intuitive user experiences
+- Always exploring new tools and technologies in the **JavaScript/TypeScript and Python ecosystems**
+- I love turning ideas into **production-ready apps** with clean code and intuitive user experiences
 - 🎓 Also a final-year Computer Engineering student @ Covenant University, focused on **AGI Systems and Computer Vision Applications**
 
 ---
@@ -57,9 +57,9 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-| 🌟 Project | ⚙️ Description | 🔧 Tech Stack |
+| Project | Description | Tech Stack |
 |-----------|----------------|---------------|
 | [GENESIS AI Assistant](https://github.com/kenee101/genesis) | LLM-powered academic assistant for graduate research | Python, Supabase, Groq |
 | Gas Station App | QR payment, analytics & dashboard for gas stations | React, Expo, Supabase, Paystack |
@@ -75,7 +75,7 @@
 
 ---
 
-### 📬 Contact Me
+### Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-Elijah-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elijah-usih-396b4b257/)  
 [![Email](https://img.shields.io/badge/-elijah.usih@stu.cu.edu.ng-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elijah.usih@stu.cu.edu.ng)
