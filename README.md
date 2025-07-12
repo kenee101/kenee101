@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elijah 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Professional+Software+Developer+%F0%9F%92%BB;React+%2B+Expo+%2B+NextJS+Specialist;NodeJS+Backend+Engineer+%F0%9F%A7%A0;AI+%2F+ML+Engineer+%F0%9F%9A%80;Final+Year+Computer+Engineer+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Professional+Software+Developer+%F0%9F%92%BB;React+%2B+Expo+%2B+NextJS+Specialist;NodeJS+Backend+Engineer;AI+%2F+ML+Engineer+%F0%9F%9A%80;Final+Year+Computer+Engineer+%F0%9F%8E%93" alt="Typing SVG" />
 </p>
 
 ---
