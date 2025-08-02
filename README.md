@@ -17,7 +17,7 @@
   - **APIs**: REST, GraphQL, gRPC, and real-time sync
 - Always exploring new tools and technologies in the **JavaScript/TypeScript and Python ecosystems**
 - I love turning ideas into **production-ready apps** with clean code and intuitive user experiences
-- 🎓 Also a final-year Computer Engineering student @ Covenant University, focused on **AGI Systems and Computer Vision Applications**
+- 🎓 Also a Computer Engineering graduate at Covenant University, focused on **AGI Systems, Computer Vision Applications, and software engineering**
 
 ---
 
@@ -62,7 +62,7 @@
 | Project | Description | Tech Stack |
 |-----------|----------------|---------------|
 | [GENESIS AI Assistant](https://github.com/kenee101/genesis) | LLM-powered academic assistant for graduate research | Python, Supabase, Groq |
-| Gas Station App | QR payment, analytics & dashboard for gas stations | React, Expo, Supabase, Paystack |
+| [Gas Station App](https://github.com/kenee101/Negzus) | QR payment, Real time data on price and location, and dashboard for gas stations | React, Expo, Supabase, Paystack |
 
 ---
 
