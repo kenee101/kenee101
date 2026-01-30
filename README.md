@@ -8,16 +8,16 @@
 
 ### About Me
 
-- I’m a **professional software developer** with **3+ years of hands-on experience**
-- Currently building a **Gas Station Management App** with **QR code payments**, real-time dashboards, and customer analytics
+- I’m a **professional software developer** with **4+ years of hands-on experience**
+- Currently building a **Subscription based SaaS platform** with **multiple payment options and clear analytics**, real-time dashboards, and customer experience
 - Passionate about **building performant and scalable systems** using modern JavaScript frameworks and backend tools
 - Strong expertise in:
   - **Frontend**: React, Expo (React Native), TailwindCSS, NextJS
   - **Backend**: Supabase, PostgreSQL, Go (Golang), FastAPI, NodeJS
-  - **APIs**: REST, GraphQL, gRPC, and real-time sync
+  - **APIs**: REST, GraphQL, gRPC, and Websockets
 - Always exploring new tools and technologies in the **JavaScript/TypeScript and Python ecosystems**
 - I love turning ideas into **production-ready apps** with clean code and intuitive user experiences
-- 🎓 Also a Computer Engineering graduate at Covenant University, focused on **AGI Systems, Computer Vision Applications, and software engineering**
+- 🎓 Also a Computer Engineering graduate from Covenant University, focused on **AGI Systems, Computer Vision Applications, and software engineering**
 
 ---
 
@@ -62,7 +62,7 @@
 | Project | Description | Tech Stack |
 |-----------|----------------|---------------|
 | [GENESIS AI Assistant](https://github.com/kenee101/genesis) | LLM-powered academic assistant for graduate research | Python, Supabase, Groq |
-| [Gas Station App](https://github.com/kenee101/Negzus) | QR payment, Real time data on price and location, and dashboard for gas stations | React, Expo, Supabase, Paystack |
+| [Subscription Based SaaS](https://github.com/kenee101/willow) | QR payment, Real time data on price and location, and dashboard for gas stations | React, Expo, Supabase, Paystack |
 
 ---
 
