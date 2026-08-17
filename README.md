@@ -61,7 +61,7 @@
 
 | Project | Description | Tech Stack |
 |-----------|----------------|---------------|
-| [GENESIS AI Assistant](https://github.com/kenee101/genesis) | LLM-powered academic assistant for graduate research | Python, Supabase, Groq |
+| [GENESIS AI Assistant](https://github.com/kenee101/genesis) | LLM-powered academic assistant for graduate research | Python, PostgreSQL, Groq API, Langchain |
 
 ---
 
